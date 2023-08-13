@@ -7,4 +7,4 @@
 Знание языка LAD и C++
 Коммуникабельность
 Умение работать с компасом 3D.
-![Alt text](image-1.png)
+![image](https://github.com/Tulsya/My1/assets/136454948/0a80c2f9-7008-4537-ba07-24acb59ca04b)
